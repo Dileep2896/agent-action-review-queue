@@ -1,0 +1,14 @@
+.cache/
+node_modules/
+.venv/
+.next/
+coverage/
+.env*
+!.env.example
+*.tsbuildinfo
+playwright-report/
+test-results/
+.DS_Store
+brag-output/
+.playwright-mcp/
+.hallmark/
